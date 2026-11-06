@@ -1,0 +1,2078 @@
+{
+ "cells": [
+  {
+   "A0": 5,
+   "Y": {
+    "den_pow2": 2,
+    "num": 16845118580405695035
+   },
+   "c1": 1,
+   "cell": {
+    "a_mod_8": 1,
+    "c_mod_8": 0
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 49191317529892137644
+   },
+   "root_choice": "-",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 5615039526801898345
+   },
+   "tau_suggested": 1,
+   "tau_suggested_obstructed": "1024/1024",
+   "tau_verified": 3,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 4,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 1
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 33690237160811390070
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    1
+   ]
+  },
+  {
+   "A0": 5,
+   "Y": {
+    "den_pow2": 2,
+    "num": 1601625493303856581
+   },
+   "c1": -1,
+   "cell": {
+    "a_mod_8": 1,
+    "c_mod_8": 1
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 4
+   },
+   "root_choice": "+",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 16845118580405695035
+   },
+   "tau_suggested": 3,
+   "tau_suggested_obstructed": "0/1024",
+   "tau_verified": 1,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 3,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 0
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 1601625493303856581
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    0
+   ]
+  },
+  {
+   "A0": 5,
+   "Y": {
+    "den_pow2": 2,
+    "num": 1
+   },
+   "c1": 3,
+   "cell": {
+    "a_mod_8": 1,
+    "c_mod_8": 2
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 14442680340449910164
+   },
+   "root_choice": "+",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 17645931327057623325
+   },
+   "tau_suggested": 5,
+   "tau_suggested_obstructed": "85/1024",
+   "tau_verified": 1,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 5,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 2
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 35291862654115246652
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    1
+   ]
+  },
+  {
+   "A0": 5,
+   "Y": {
+    "den_pow2": 2,
+    "num": 16845118580405695035
+   },
+   "c1": 1,
+   "cell": {
+    "a_mod_8": 1,
+    "c_mod_8": 3
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 49191317529892137644
+   },
+   "root_choice": "-",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 12831704546907653271
+   },
+   "tau_suggested": 7,
+   "tau_suggested_obstructed": "0/1024",
+   "tau_verified": 1,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 3,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 0
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 16845118580405695035
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    0
+   ]
+  },
+  {
+   "A0": 5,
+   "Y": {
+    "den_pow2": 2,
+    "num": 11332904580860904375
+   },
+   "c1": 5,
+   "cell": {
+    "a_mod_8": 1,
+    "c_mod_8": 4
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 40810557397124167612
+   },
+   "root_choice": "-",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 15213111555168361377
+   },
+   "tau_suggested": 1,
+   "tau_suggested_obstructed": "0/1024",
+   "tau_verified": 3,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 4,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 1
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 9731279087557047794
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    1
+   ]
+  },
+  {
+   "A0": 5,
+   "Y": {
+    "den_pow2": 2,
+    "num": 1
+   },
+   "c1": 3,
+   "cell": {
+    "a_mod_8": 1,
+    "c_mod_8": 5
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 59029581035870565172
+   },
+   "root_choice": "+",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 3689348814741910323
+   },
+   "tau_suggested": 3,
+   "tau_suggested_obstructed": "0/1024",
+   "tau_verified": 1,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 3,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 0
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 1
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    0
+   ]
+  },
+  {
+   "A0": 5,
+   "Y": {
+    "den_pow2": 2,
+    "num": 18446744073709551613
+   },
+   "c1": 7,
+   "cell": {
+    "a_mod_8": 1,
+    "c_mod_8": 6
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 44377090749742167588
+   },
+   "root_choice": "+",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 12030891800255724981
+   },
+   "tau_suggested": 5,
+   "tau_suggested_obstructed": "82/1024",
+   "tau_verified": 1,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 6,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 3
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 35291862654115246648
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    1
+   ]
+  },
+  {
+   "A0": 5,
+   "Y": {
+    "den_pow2": 2,
+    "num": 11332904580860904375
+   },
+   "c1": 5,
+   "cell": {
+    "a_mod_8": 1,
+    "c_mod_8": 7
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 31622989840644945628
+   },
+   "root_choice": "-",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 14192508551628057903
+   },
+   "tau_suggested": 7,
+   "tau_suggested_obstructed": "0/1024",
+   "tau_verified": 1,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 3,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 0
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 11332904580860904375
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    0
+   ]
+  },
+  {
+   "A0": 37,
+   "Y": {
+    "den_pow2": 2,
+    "num": 12615151157660078795
+   },
+   "c1": 1,
+   "cell": {
+    "a_mod_8": 3,
+    "c_mod_8": 0
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 49191317529892137644
+   },
+   "root_choice": "-",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 10353965077123210137
+   },
+   "tau_suggested": 1,
+   "tau_suggested_obstructed": "1024/1024",
+   "tau_verified": 3,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 4,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 1
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 25230302315320157590
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    1
+   ]
+  },
+  {
+   "A0": 37,
+   "Y": {
+    "den_pow2": 2,
+    "num": 5831592916049472821
+   },
+   "c1": -1,
+   "cell": {
+    "a_mod_8": 3,
+    "c_mod_8": 1
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 4
+   },
+   "root_choice": "+",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 12615151157660078795
+   },
+   "tau_suggested": 3,
+   "tau_suggested_obstructed": "0/1024",
+   "tau_verified": 1,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 3,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 0
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 5831592916049472821
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    0
+   ]
+  },
+  {
+   "A0": 37,
+   "Y": {
+    "den_pow2": 2,
+    "num": 8625710728487143601
+   },
+   "c1": 3,
+   "cell": {
+    "a_mod_8": 3,
+    "c_mod_8": 2
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 14442680340449910164
+   },
+   "root_choice": "+",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 11218092251441243405
+   },
+   "tau_suggested": 5,
+   "tau_suggested_obstructed": "85/1024",
+   "tau_verified": 1,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 5,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 2
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 39687605959856774012
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    1
+   ]
+  },
+  {
+   "A0": 37,
+   "Y": {
+    "den_pow2": 2,
+    "num": 12615151157660078795
+   },
+   "c1": 1,
+   "cell": {
+    "a_mod_8": 3,
+    "c_mod_8": 3
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 49191317529892137644
+   },
+   "root_choice": "-",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 8092778996586341479
+   },
+   "tau_suggested": 7,
+   "tau_suggested_obstructed": "0/1024",
+   "tau_verified": 1,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 3,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 0
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 12615151157660078795
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    0
+   ]
+  },
+  {
+   "A0": 37,
+   "Y": {
+    "den_pow2": 2,
+    "num": 3846197032736803207
+   },
+   "c1": 5,
+   "cell": {
+    "a_mod_8": 3,
+    "c_mod_8": 4
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 40810557397124167612
+   },
+   "root_choice": "-",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 2192238531230818897
+   },
+   "tau_suggested": 1,
+   "tau_suggested_obstructed": "0/1024",
+   "tau_verified": 3,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 4,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 1
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 16461348190396882002
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    1
+   ]
+  },
+  {
+   "A0": 37,
+   "Y": {
+    "den_pow2": 2,
+    "num": 8625710728487143601
+   },
+   "c1": 3,
+   "cell": {
+    "a_mod_8": 3,
+    "c_mod_8": 5
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 59029581035870565172
+   },
+   "root_choice": "+",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 1964206669044481603
+   },
+   "tau_suggested": 3,
+   "tau_suggested_obstructed": "0/1024",
+   "tau_verified": 1,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 3,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 0
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 8625710728487143601
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    0
+   ]
+  },
+  {
+   "A0": 37,
+   "Y": {
+    "den_pow2": 2,
+    "num": 11016355961957672429
+   },
+   "c1": 7,
+   "cell": {
+    "a_mod_8": 3,
+    "c_mod_8": 6
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 44377090749742167588
+   },
+   "root_choice": "+",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 9489837902805176869
+   },
+   "tau_suggested": 5,
+   "tau_suggested_obstructed": "88/1024",
+   "tau_verified": 1,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 6,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 3
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 78971739340746406072
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    1
+   ]
+  },
+  {
+   "A0": 37,
+   "Y": {
+    "den_pow2": 2,
+    "num": 3846197032736803207
+   },
+   "c1": 5,
+   "cell": {
+    "a_mod_8": 3,
+    "c_mod_8": 7
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 31622989840644945628
+   },
+   "root_choice": "-",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 9991539894585914751
+   },
+   "tau_suggested": 7,
+   "tau_suggested_obstructed": "0/1024",
+   "tau_verified": 1,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 3,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 0
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 3846197032736803207
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    0
+   ]
+  },
+  {
+   "A0": 101,
+   "Y": {
+    "den_pow2": 2,
+    "num": 1212190490225680107
+   },
+   "c1": 1,
+   "cell": {
+    "a_mod_8": 5,
+    "c_mod_8": 0
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 49191317529892137644
+   },
+   "root_choice": "-",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 404063496741893369
+   },
+   "tau_suggested": 1,
+   "tau_suggested_obstructed": "1024/1024",
+   "tau_verified": 3,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 4,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 1
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 2424380980451360214
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    1
+   ]
+  },
+  {
+   "A0": 101,
+   "Y": {
+    "den_pow2": 2,
+    "num": 17234553583483871509
+   },
+   "c1": -1,
+   "cell": {
+    "a_mod_8": 5,
+    "c_mod_8": 1
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 4
+   },
+   "root_choice": "+",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 1212190490225680107
+   },
+   "tau_suggested": 3,
+   "tau_suggested_obstructed": "0/1024",
+   "tau_verified": 1,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 3,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 0
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 17234553583483871509
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    0
+   ]
+  },
+  {
+   "A0": 101,
+   "Y": {
+    "den_pow2": 2,
+    "num": 16145133493228768017
+   },
+   "c1": 3,
+   "cell": {
+    "a_mod_8": 5,
+    "c_mod_8": 2
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 14442680340449910164
+   },
+   "root_choice": "+",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 10980272572208007661
+   },
+   "tau_suggested": 5,
+   "tau_suggested_obstructed": "85/1024",
+   "tau_verified": 1,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 5,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 2
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 17357323983454448124
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    1
+   ]
+  },
+  {
+   "A0": 101,
+   "Y": {
+    "den_pow2": 2,
+    "num": 1212190490225680107
+   },
+   "c1": 1,
+   "cell": {
+    "a_mod_8": 5,
+    "c_mod_8": 3
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 49191317529892137644
+   },
+   "root_choice": "-",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 18042680576967658247
+   },
+   "tau_suggested": 7,
+   "tau_suggested_obstructed": "0/1024",
+   "tau_verified": 1,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 3,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 0
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 1212190490225680107
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    0
+   ]
+  },
+  {
+   "A0": 101,
+   "Y": {
+    "den_pow2": 2,
+    "num": 4469555916491463719
+   },
+   "c1": 5,
+   "cell": {
+    "a_mod_8": 5,
+    "c_mod_8": 4
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 40810557397124167612
+   },
+   "root_choice": "-",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 17632402717143105713
+   },
+   "tau_suggested": 1,
+   "tau_suggested_obstructed": "0/1024",
+   "tau_verified": 3,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 4,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 1
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 5681746406717143826
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    1
+   ]
+  },
+  {
+   "A0": 101,
+   "Y": {
+    "den_pow2": 2,
+    "num": 16145133493228768017
+   },
+   "c1": 3,
+   "cell": {
+    "a_mod_8": 5,
+    "c_mod_8": 5
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 59029581035870565172
+   },
+   "root_choice": "+",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 4149670930838067043
+   },
+   "tau_suggested": 3,
+   "tau_suggested_obstructed": "0/1024",
+   "tau_verified": 1,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 3,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 0
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 16145133493228768017
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    0
+   ]
+  },
+  {
+   "A0": 101,
+   "Y": {
+    "den_pow2": 2,
+    "num": 6904831741442350797
+   },
+   "c1": 7,
+   "cell": {
+    "a_mod_8": 5,
+    "c_mod_8": 6
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 44377090749742167588
+   },
+   "root_choice": "+",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 8274598494985330693
+   },
+   "tau_suggested": 5,
+   "tau_suggested_obstructed": "86/1024",
+   "tau_verified": 1,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 6,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 3
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 26563766305377582520
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    1
+   ]
+  },
+  {
+   "A0": 101,
+   "Y": {
+    "den_pow2": 2,
+    "num": 4469555916491463719
+   },
+   "c1": 5,
+   "cell": {
+    "a_mod_8": 5,
+    "c_mod_8": 7
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 31622989840644945628
+   },
+   "root_choice": "-",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 15172986932252263711
+   },
+   "tau_suggested": 7,
+   "tau_suggested_obstructed": "0/1024",
+   "tau_verified": 1,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 3,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 0
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 4469555916491463719
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    0
+   ]
+  },
+  {
+   "A0": 197,
+   "Y": {
+    "den_pow2": 2,
+    "num": 15052872711034829979
+   },
+   "c1": 1,
+   "cell": {
+    "a_mod_8": 7,
+    "c_mod_8": 0
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 49191317529892137644
+   },
+   "root_choice": "-",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 5017624237011609993
+   },
+   "tau_suggested": 1,
+   "tau_suggested_obstructed": "1024/1024",
+   "tau_verified": 3,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 4,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 1
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 30105745422069659958
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    1
+   ]
+  },
+  {
+   "A0": 197,
+   "Y": {
+    "den_pow2": 2,
+    "num": 3393871362674721637
+   },
+   "c1": -1,
+   "cell": {
+    "a_mod_8": 7,
+    "c_mod_8": 1
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 4
+   },
+   "root_choice": "+",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 15052872711034829979
+   },
+   "tau_suggested": 3,
+   "tau_suggested_obstructed": "0/1024",
+   "tau_verified": 1,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 3,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 0
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 3393871362674721637
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    0
+   ]
+  },
+  {
+   "A0": 197,
+   "Y": {
+    "den_pow2": 2,
+    "num": 3026944820285610273
+   },
+   "c1": 3,
+   "cell": {
+    "a_mod_8": 7,
+    "c_mod_8": 2
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 14442680340449910164
+   },
+   "root_choice": "+",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 15236335982229385661
+   },
+   "tau_suggested": 5,
+   "tau_suggested_obstructed": "85/1024",
+   "tau_verified": 1,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 5,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 2
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 73420049752449095100
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    1
+   ]
+  },
+  {
+   "A0": 197,
+   "Y": {
+    "den_pow2": 2,
+    "num": 15052872711034829979
+   },
+   "c1": 1,
+   "cell": {
+    "a_mod_8": 7,
+    "c_mod_8": 3
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 49191317529892137644
+   },
+   "root_choice": "-",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 13429119836697941623
+   },
+   "tau_suggested": 7,
+   "tau_suggested_obstructed": "0/1024",
+   "tau_verified": 1,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 3,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 0
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 15052872711034829979
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    0
+   ]
+  },
+  {
+   "A0": 197,
+   "Y": {
+    "den_pow2": 2,
+    "num": 18176260570411227543
+   },
+   "c1": 5,
+   "cell": {
+    "a_mod_8": 7,
+    "c_mod_8": 4
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 40810557397124167612
+   },
+   "root_choice": "-",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 17665897108865452225
+   },
+   "tau_suggested": 1,
+   "tau_suggested_obstructed": "0/1024",
+   "tau_verified": 3,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 4,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 1
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 33229133281446057522
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    1
+   ]
+  },
+  {
+   "A0": 197,
+   "Y": {
+    "den_pow2": 2,
+    "num": 3026944820285610273
+   },
+   "c1": 3,
+   "cell": {
+    "a_mod_8": 7,
+    "c_mod_8": 5
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 59029581035870565172
+   },
+   "root_choice": "+",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 10462657480168608915
+   },
+   "tau_suggested": 3,
+   "tau_suggested_obstructed": "0/1024",
+   "tau_verified": 1,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 3,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 0
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 3026944820285610273
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    0
+   ]
+  },
+  {
+   "A0": 197,
+   "Y": {
+    "den_pow2": 2,
+    "num": 9365909612852720797
+   },
+   "c1": 7,
+   "cell": {
+    "a_mod_8": 7,
+    "c_mod_8": 6
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 44377090749742167588
+   },
+   "root_choice": "+",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 13245656565503385941
+   },
+   "tau_suggested": 5,
+   "tau_suggested_obstructed": "86/1024",
+   "tau_verified": 1,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 6,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 3
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 135099246766144860472
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    1
+   ]
+  },
+  {
+   "A0": 197,
+   "Y": {
+    "den_pow2": 2,
+    "num": 18176260570411227543
+   },
+   "c1": 5,
+   "cell": {
+    "a_mod_8": 7,
+    "c_mod_8": 7
+   },
+   "checks": {
+    "N_z1_eq_1": true,
+    "N_z2_eq_1": true,
+    "P_center_zero": true,
+    "Tr_sum_eq_c0": true,
+    "Tr_z1_eq_c1": true,
+    "Ysq_ok": true,
+    "coord_consistency": true,
+    "delta_tau_nonzero": true,
+    "gamma_minus1_unit": true,
+    "gamma_ne_m1": true,
+    "gamma_plus1_unit": true,
+    "i_sq_ok": true,
+    "tp_in_Q2": true,
+    "z1_integral": true,
+    "z1_ne_pm1": true,
+    "z2_ne_pm_z1": true,
+    "z2_ne_z1inv": true
+   },
+   "delta": {
+    "den_pow2": 1,
+    "num": 31622989840644945628
+   },
+   "root_choice": "-",
+   "t_p": {
+    "den_pow2": 1,
+    "num": 15850135420793661967
+   },
+   "tau_suggested": 7,
+   "tau_suggested_obstructed": "0/1024",
+   "tau_verified": 1,
+   "tau_verified_obstructed": "0/1024",
+   "valuations": {
+    "e": 3,
+    "v_Y": -1,
+    "v_delta": 2,
+    "v_t_p": 0,
+    "v_y_witness": 0
+   },
+   "y_witness": {
+    "den_pow2": 1,
+    "num": 18176260570411227543
+   },
+   "z1_bar": [
+    0,
+    1
+   ],
+   "z2_bar": [
+    1,
+    0
+   ]
+  }
+ ],
+ "constants": {
+  "E": "Q_2(zeta), zeta^2+zeta+1=0 (unramified quadratic)",
+  "Pi_S": 2,
+  "S": [
+   2
+  ],
+  "field": "Q_2",
+  "pi": 2,
+  "u": 1
+ },
+ "counts": {
+  "Lambda_verified_local": 2,
+  "Lambda_with_Sun_4_lifts_per_class": 8,
+  "cells_mod8": 32,
+  "claim_G1_Lambda_le": 512,
+  "distinct_tau_from_cayley": [
+   1,
+   3,
+   5,
+   7
+  ],
+  "note": "the Cayley-derived tau serves only c0 in {1,3,5,7} (odd c); it is 100% obstructed for c0=0 and c0=4 and 8-25% obstructed for c0=2,6",
+  "verified_tau_set": [
+   1,
+   3
+  ]
+ },
+ "lambda_final": {
+  "class_A": {
+   "note": "4 parameters per class as Sun requires; all verified to serve the whole class exhaustively",
+   "set": "v_2(c) <= 2 (c not = 0 mod 8)",
+   "taus": [
+    1,
+    17,
+    33,
+    49
+   ]
+  },
+  "class_B": {
+   "set": "v_2(c) >= 2 (c = 0 mod 4)",
+   "taus": [
+    3,
+    11,
+    19,
+    27
+   ]
+  },
+  "size": 8,
+  "supersedes": "the 2-value map (tau = 1 / tau = 3) of the previous pass, which is enough to COVER P_2 but not enough for Sun's four-residues-per-class argument"
+ },
+ "lane": "dzq-exec",
+ "method": {
+  "Y": "i-coordinate of z1 = (c1 + sqrt(c1^2-4))/2 in K(i), i^2 = A",
+  "t_p": "Cayley parameter of gamma = z2/z1 at the cell centre: t_p = (gamma-1)/(sqrt(A)(gamma+1))",
+  "truncation": "binary 64-bit rational truncation of the 2-adic value",
+  "y_witness": "the (2.1) witness y = 4Y + t_p*c (NOT Y: G1_FREEZING.md conflates them)"
+ },
+ "what": "frozen-parameter data for the S={2}, u=1, pi=2 instance of Sun 2026 Prop 3.1"
+}

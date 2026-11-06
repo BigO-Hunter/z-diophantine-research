@@ -1,0 +1,819 @@
+{
+ "centre": [
+  {
+   "A0": 5,
+   "a0": 1,
+   "all_checks_pass": true,
+   "c0": 0,
+   "c1": 1,
+   "e": 4,
+   "tau_cayley": 1,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 1
+  },
+  {
+   "A0": 5,
+   "a0": 1,
+   "all_checks_pass": true,
+   "c0": 1,
+   "c1": -1,
+   "e": 3,
+   "tau_cayley": 3,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 0
+  },
+  {
+   "A0": 5,
+   "a0": 1,
+   "all_checks_pass": true,
+   "c0": 2,
+   "c1": 3,
+   "e": 5,
+   "tau_cayley": 5,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 2
+  },
+  {
+   "A0": 5,
+   "a0": 1,
+   "all_checks_pass": true,
+   "c0": 3,
+   "c1": 1,
+   "e": 3,
+   "tau_cayley": 7,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 0
+  },
+  {
+   "A0": 5,
+   "a0": 1,
+   "all_checks_pass": true,
+   "c0": 4,
+   "c1": 5,
+   "e": 4,
+   "tau_cayley": 1,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 1
+  },
+  {
+   "A0": 5,
+   "a0": 1,
+   "all_checks_pass": true,
+   "c0": 5,
+   "c1": 3,
+   "e": 3,
+   "tau_cayley": 3,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 0
+  },
+  {
+   "A0": 5,
+   "a0": 1,
+   "all_checks_pass": true,
+   "c0": 6,
+   "c1": 7,
+   "e": 6,
+   "tau_cayley": 5,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 3
+  },
+  {
+   "A0": 5,
+   "a0": 1,
+   "all_checks_pass": true,
+   "c0": 7,
+   "c1": 5,
+   "e": 3,
+   "tau_cayley": 7,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 0
+  },
+  {
+   "A0": 37,
+   "a0": 3,
+   "all_checks_pass": true,
+   "c0": 0,
+   "c1": 1,
+   "e": 4,
+   "tau_cayley": 1,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 1
+  },
+  {
+   "A0": 37,
+   "a0": 3,
+   "all_checks_pass": true,
+   "c0": 1,
+   "c1": -1,
+   "e": 3,
+   "tau_cayley": 3,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 0
+  },
+  {
+   "A0": 37,
+   "a0": 3,
+   "all_checks_pass": true,
+   "c0": 2,
+   "c1": 3,
+   "e": 5,
+   "tau_cayley": 5,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 2
+  },
+  {
+   "A0": 37,
+   "a0": 3,
+   "all_checks_pass": true,
+   "c0": 3,
+   "c1": 1,
+   "e": 3,
+   "tau_cayley": 7,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 0
+  },
+  {
+   "A0": 37,
+   "a0": 3,
+   "all_checks_pass": true,
+   "c0": 4,
+   "c1": 5,
+   "e": 4,
+   "tau_cayley": 1,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 1
+  },
+  {
+   "A0": 37,
+   "a0": 3,
+   "all_checks_pass": true,
+   "c0": 5,
+   "c1": 3,
+   "e": 3,
+   "tau_cayley": 3,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 0
+  },
+  {
+   "A0": 37,
+   "a0": 3,
+   "all_checks_pass": true,
+   "c0": 6,
+   "c1": 7,
+   "e": 6,
+   "tau_cayley": 5,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 3
+  },
+  {
+   "A0": 37,
+   "a0": 3,
+   "all_checks_pass": true,
+   "c0": 7,
+   "c1": 5,
+   "e": 3,
+   "tau_cayley": 7,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 0
+  },
+  {
+   "A0": 101,
+   "a0": 5,
+   "all_checks_pass": true,
+   "c0": 0,
+   "c1": 1,
+   "e": 4,
+   "tau_cayley": 1,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 1
+  },
+  {
+   "A0": 101,
+   "a0": 5,
+   "all_checks_pass": true,
+   "c0": 1,
+   "c1": -1,
+   "e": 3,
+   "tau_cayley": 3,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 0
+  },
+  {
+   "A0": 101,
+   "a0": 5,
+   "all_checks_pass": true,
+   "c0": 2,
+   "c1": 3,
+   "e": 5,
+   "tau_cayley": 5,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 2
+  },
+  {
+   "A0": 101,
+   "a0": 5,
+   "all_checks_pass": true,
+   "c0": 3,
+   "c1": 1,
+   "e": 3,
+   "tau_cayley": 7,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 0
+  },
+  {
+   "A0": 101,
+   "a0": 5,
+   "all_checks_pass": true,
+   "c0": 4,
+   "c1": 5,
+   "e": 4,
+   "tau_cayley": 1,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 1
+  },
+  {
+   "A0": 101,
+   "a0": 5,
+   "all_checks_pass": true,
+   "c0": 5,
+   "c1": 3,
+   "e": 3,
+   "tau_cayley": 3,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 0
+  },
+  {
+   "A0": 101,
+   "a0": 5,
+   "all_checks_pass": true,
+   "c0": 6,
+   "c1": 7,
+   "e": 6,
+   "tau_cayley": 5,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 3
+  },
+  {
+   "A0": 101,
+   "a0": 5,
+   "all_checks_pass": true,
+   "c0": 7,
+   "c1": 5,
+   "e": 3,
+   "tau_cayley": 7,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 0
+  },
+  {
+   "A0": 197,
+   "a0": 7,
+   "all_checks_pass": true,
+   "c0": 0,
+   "c1": 1,
+   "e": 4,
+   "tau_cayley": 1,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 1
+  },
+  {
+   "A0": 197,
+   "a0": 7,
+   "all_checks_pass": true,
+   "c0": 1,
+   "c1": -1,
+   "e": 3,
+   "tau_cayley": 3,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 0
+  },
+  {
+   "A0": 197,
+   "a0": 7,
+   "all_checks_pass": true,
+   "c0": 2,
+   "c1": 3,
+   "e": 5,
+   "tau_cayley": 5,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 2
+  },
+  {
+   "A0": 197,
+   "a0": 7,
+   "all_checks_pass": true,
+   "c0": 3,
+   "c1": 1,
+   "e": 3,
+   "tau_cayley": 7,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 0
+  },
+  {
+   "A0": 197,
+   "a0": 7,
+   "all_checks_pass": true,
+   "c0": 4,
+   "c1": 5,
+   "e": 4,
+   "tau_cayley": 1,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 1
+  },
+  {
+   "A0": 197,
+   "a0": 7,
+   "all_checks_pass": true,
+   "c0": 5,
+   "c1": 3,
+   "e": 3,
+   "tau_cayley": 3,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 0
+  },
+  {
+   "A0": 197,
+   "a0": 7,
+   "all_checks_pass": true,
+   "c0": 6,
+   "c1": 7,
+   "e": 6,
+   "tau_cayley": 5,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 3
+  },
+  {
+   "A0": 197,
+   "a0": 7,
+   "all_checks_pass": true,
+   "c0": 7,
+   "c1": 5,
+   "e": 3,
+   "tau_cayley": 7,
+   "v_Y": -1,
+   "v_delta": 2,
+   "v_tp": 0,
+   "v_y_witness": 0
+  }
+ ],
+ "counterexamples": [
+  {
+   "a": 145,
+   "admissible_y_mod_2_10_2_12": [
+    0,
+    0
+   ],
+   "c": -208,
+   "detail": "v(w)=2,u=5",
+   "solvable": false,
+   "tau": 1,
+   "why": "OBSTRUCTION: v(w) even, u=5 mod 8"
+  },
+  {
+   "a": 145,
+   "admissible_y_mod_2_10_2_12": null,
+   "c": -208,
+   "detail": "v(w)=2,u=7",
+   "solvable": true,
+   "tau": 3,
+   "why": "u=3,7 mod 8 -> v(g) odd"
+  },
+  {
+   "a": -415,
+   "admissible_y_mod_2_10_2_12": [
+    0,
+    0
+   ],
+   "c": -368,
+   "detail": "v(w)=2,u=5",
+   "solvable": false,
+   "tau": 1,
+   "why": "OBSTRUCTION: v(w) even, u=5 mod 8"
+  },
+  {
+   "a": -415,
+   "admissible_y_mod_2_10_2_12": null,
+   "c": -368,
+   "detail": "v(w)=2,u=7",
+   "solvable": true,
+   "tau": 3,
+   "why": "u=3,7 mod 8 -> v(g) odd"
+  },
+  {
+   "a": 233,
+   "admissible_y_mod_2_10_2_12": [
+    0,
+    0
+   ],
+   "c": -400,
+   "detail": "v(w)=2,u=5",
+   "solvable": false,
+   "tau": 1,
+   "why": "OBSTRUCTION: v(w) even, u=5 mod 8"
+  },
+  {
+   "a": 233,
+   "admissible_y_mod_2_10_2_12": null,
+   "c": -400,
+   "detail": "v(w)=2,u=7",
+   "solvable": true,
+   "tau": 3,
+   "why": "u=3,7 mod 8 -> v(g) odd"
+  }
+ ],
+ "coverage": {
+  "obstructed_cayley_tau": 76446,
+  "obstructed_tau_map": 0,
+  "points": 524288
+ },
+ "perturb": {
+  "I4": {
+   "hist": [
+    [
+     3608,
+     1
+    ],
+    [
+     12800,
+     1
+    ]
+   ],
+   "max": 12800,
+   "min": 3608,
+   "n": 2
+  },
+  "I5_as_stated_ge6": {
+   "hist": [
+    [
+     9600,
+     1
+    ],
+    [
+     12800,
+     1
+    ]
+   ],
+   "max": 12800,
+   "min": 9600,
+   "n": 2
+  },
+  "I5_holds_true_ineq": {
+   "hist": [
+    [
+     12800,
+     2
+    ]
+   ],
+   "max": 12800,
+   "min": 12800,
+   "n": 2
+  },
+  "e": {
+   "hist": [
+    [
+     3,
+     6400
+    ],
+    [
+     4,
+     3200
+    ],
+    [
+     5,
+     1600
+    ],
+    [
+     6,
+     1600
+    ]
+   ],
+   "max": 6,
+   "min": 3,
+   "n": 12800
+  },
+  "v_dA": {
+   "hist": [
+    [
+     6,
+     6425
+    ],
+    [
+     7,
+     3238
+    ],
+    [
+     8,
+     1563
+    ],
+    [
+     9,
+     783
+    ],
+    [
+     10,
+     384
+    ],
+    [
+     11,
+     194
+    ],
+    [
+     12,
+     116
+    ],
+    [
+     13,
+     46
+    ],
+    [
+     14,
+     24
+    ]
+   ],
+   "max": 14,
+   "min": 6,
+   "n": 12773
+  },
+  "v_dP": {
+   "hist": [
+    [
+     6,
+     6421
+    ],
+    [
+     7,
+     3216
+    ],
+    [
+     8,
+     1587
+    ],
+    [
+     9,
+     788
+    ],
+    [
+     10,
+     399
+    ],
+    [
+     11,
+     183
+    ],
+    [
+     12,
+     107
+    ],
+    [
+     13,
+     52
+    ],
+    [
+     14,
+     17
+    ],
+    [
+     15,
+     12
+    ],
+    [
+     16,
+     8
+    ],
+    [
+     17,
+     6
+    ]
+   ],
+   "max": 21,
+   "min": 6,
+   "n": 12800
+  },
+  "v_dc2": {
+   "hist": [
+    [
+     4,
+     3187
+    ],
+    [
+     5,
+     3206
+    ],
+    [
+     6,
+     2358
+    ],
+    [
+     7,
+     1632
+    ],
+    [
+     8,
+     1229
+    ],
+    [
+     9,
+     368
+    ],
+    [
+     10,
+     424
+    ],
+    [
+     11,
+     109
+    ],
+    [
+     12,
+     149
+    ],
+    [
+     13,
+     24
+    ],
+    [
+     14,
+     53
+    ],
+    [
+     16,
+     26
+    ]
+   ],
+   "max": 22,
+   "min": 4,
+   "n": 12781
+  },
+  "v_ddPdy": {
+   "hist": [
+    [
+     5,
+     3200
+    ],
+    [
+     6,
+     3200
+    ],
+    [
+     7,
+     3170
+    ],
+    [
+     8,
+     805
+    ],
+    [
+     9,
+     1217
+    ],
+    [
+     10,
+     617
+    ],
+    [
+     11,
+     273
+    ],
+    [
+     12,
+     155
+    ],
+    [
+     13,
+     88
+    ],
+    [
+     14,
+     39
+    ],
+    [
+     15,
+     13
+    ],
+    [
+     16,
+     12
+    ]
+   ],
+   "max": 20,
+   "min": 5,
+   "n": 12800
+  },
+  "v_ddelta": {
+   "hist": [
+    [
+     4,
+     6400
+    ],
+    [
+     5,
+     3200
+    ],
+    [
+     6,
+     1565
+    ],
+    [
+     7,
+     802
+    ],
+    [
+     8,
+     408
+    ],
+    [
+     9,
+     235
+    ],
+    [
+     10,
+     96
+    ],
+    [
+     11,
+     49
+    ],
+    [
+     12,
+     25
+    ],
+    [
+     13,
+     8
+    ],
+    [
+     14,
+     7
+    ],
+    [
+     15,
+     2
+    ]
+   ],
+   "max": 16,
+   "min": 4,
+   "n": 12800
+  }
+ }
+}

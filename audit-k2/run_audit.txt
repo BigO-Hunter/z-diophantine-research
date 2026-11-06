@@ -1,0 +1,7 @@
+A) closed form vs direct Hilbert, random (a,b), p|b, p notin {2}:
+   344/344 match
+B) small-print stress: f=3q^2+1 (f_D=3), g=q+1, p=3 dividing f_D:
+   formula breaks/mismatches on 32/32 points when p | f_D (small print is load-bearing)
+C) HP hit search for (q^2+1, q+3): b odd in 2..120, a=1 mod rad(b), a<2000:
+   checked 6662 candidate (a,b): soluble-fiber hits=1035, locally insoluble=5627
+   first HP hit: q0 = 4/3

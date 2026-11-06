@@ -1,0 +1,10 @@
+# patch_p17 (sparse term list, '<coeff> <var>:<exp> ...'), sorted by monomial key
+# vars: 0=X 1=a 2=b 3=y 4=r 5=s 6=zeta 7=zeta' 8=b1 9=sigma 10=upsilon 11=iota
+# terms: 7   degrees: [2, 0, 0, 2, 2, 2, 0, 0, 0, 0, 0, 0]   (pi=51, A=-1, B=17, a=13)
+714
+-867 5:2
+-867 4:1 5:1
+-867 4:2
+-153 3:1
+153 3:2
+-289 0:2

@@ -1,0 +1,10 @@
+# P0_tau17 (sparse term list, '<coeff> <var>:<exp> ...'), sorted by monomial key
+# vars: 0=X 1=a 2=b 3=y 4=r 5=s 6=zeta 7=zeta' 8=b1 9=sigma 10=upsilon 11=iota
+# terms: 7   degrees: [0, 4, 1, 2, 2, 2, 0, 0, 0, 0, 0, 0]
+-16
+288 3:2
+32 2:1 5:2
+-32 2:1 4:2
+2308 1:2 3:2
+128 1:2 2:1 5:2
+4624 1:4 3:2

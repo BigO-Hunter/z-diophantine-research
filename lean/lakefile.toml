@@ -1,0 +1,12 @@
+name = "dzq-lean"
+version = "0.1.0"
+defaultTargets = ["Dzq"]
+
+[[lean_lib]]
+name = "Dzq"
+
+# Reuse the already-built Mathlib from the staircase-port campaign.
+# Path dep => no clone, no 8GB rebuild.
+[[require]]
+name = "mathlib"
+path = "../staircase-port/.lake/packages/mathlib"

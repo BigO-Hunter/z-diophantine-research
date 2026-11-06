@@ -1,0 +1,11 @@
+FORM: sparse term list polynomial.expanded.txt (sha 094f6a7e) — coeff + repeated indices, var0=input. Also ships residuals.json.gz (4,552 rows), weights.json (all 1), 554-line cert, generator. ZIPs match SHA256SUMS; r3 identical.
+
+LEDGER (0 findings): 72,925 monomials; 4,973 vars (max idx 4972, all used); degree 4; max|coeff|=claimed, 80 bits <2^80; 4,552 rows; 4,972 witnesses; weights all 1.
+
+STRUCTURE: Φ=Σw_iR_i² EXACTLY-CHECKED — 72,925 both sides, 0 diffs, same content sha. Cert replay: 550/551 patches re-derived from data+pre-op state (all 5 op kinds), 0 failures; parity_conic (1) patch-only; replay reproduces candidate-rows+residuals exactly.
+
+EASY DIRECTION NOT-REACHED: Φ≥0 exact; all-zero not a witness (const 1900333570565983); forward substitution gives 34/4,973 vars, so q↦w is not in the artifact; per-q existence = source arithmetic theorem, release scopes out. 27/121 elims + both shears non-integral, consistent with "rational zero projection exactly Z", not a finding.
+
+ARTIFACT: phi-4973.canonical.txt.gz 334,290B, sha d9a51267; variants re-verify via --termlist; control arms 5/5 caught.
+
+GAPS: 371MB full zip + PDF skipped; run.py Linux-only (:74), no generator re-run. Smell: none.

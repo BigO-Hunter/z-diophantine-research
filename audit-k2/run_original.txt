@@ -1,0 +1,15 @@
+=== denominator primes: prediction vs direct computation ===
+q0=1/3 p=3 e=1: predicted +1, actual +1  OK 
+q0=5/7 p=7 e=1: predicted +1, actual +1  OK 
+q0=11/6 p=3 e=1: predicted +1, actual +1  OK 
+q0=23/15 p=3 e=1: predicted +1, actual +1  OK 
+q0=23/15 p=5 e=1: predicted +1, actual +1  OK 
+q0=7/35 p=5 e=1: predicted +1, actual +1  OK 
+q0=7/35 p=7 e=1: predicted +1, actual +1  OK 
+all denominator-prime predictions match
+
+=== numerator-prime wall: odd-valuation primes of F~(a,b)*G~(a,b) ===
+a=2 b=3: numerator prime p=13 | f-valuation 1 odd, (g-unit/p)=-1  -> FIBER LOCALLY INSOLEUBLE at 13 (wall real)
+a=3 b=5: numerator prime p=17 | f-valuation 1 odd, (g-unit/p)=-1  -> FIBER LOCALLY INSOLEUBLE at 17 (wall real)
+a=1 b=21: numerator prime p=13 | f-valuation 1 odd, (g-unit/p)=-1  -> FIBER LOCALLY INSOLEUBLE at 13 (wall real)
+wall demonstrated at 3 of 7 sample points (odd-valuation obstruction)

@@ -1,0 +1,292 @@
+{
+ "Lambda": [
+  1,
+  17,
+  33,
+  49,
+  3,
+  11,
+  19,
+  27
+ ],
+ "objects": {
+  "P0_tau1": {
+   "file": "P0_tau1.terms.txt",
+   "sha256": "55e629db654ba51cc43f73088ac55909341bbea7379078de951e0c9aaf3b6b30",
+   "terms": 6
+  },
+  "P0_tau11": {
+   "file": "P0_tau11.terms.txt",
+   "sha256": "fff43231c73ded356546053b6bf8d8e393f937852c387007a3d083fe5c7182a2",
+   "terms": 7
+  },
+  "P0_tau17": {
+   "file": "P0_tau17.terms.txt",
+   "sha256": "8bf20ef601ead2576dbd53cd0222f470b99ec0374decce34c98f45c84c1223eb",
+   "terms": 7
+  },
+  "P0_tau19": {
+   "file": "P0_tau19.terms.txt",
+   "sha256": "afc57da68e006ac106bdb215ab3708d3023877185597b6e13e5a9d05fad0d747",
+   "terms": 7
+  },
+  "P0_tau27": {
+   "file": "P0_tau27.terms.txt",
+   "sha256": "d904d3c13803f4537c8dc23091cce9d6062b624db999bbcf136ebdf64ff0ec27",
+   "terms": 7
+  },
+  "P0_tau3": {
+   "file": "P0_tau3.terms.txt",
+   "sha256": "8ec3517dee49ab32399ea44c730f68bf5fafca68c24621e5baaf6d2c4166e864",
+   "terms": 7
+  },
+  "P0_tau33": {
+   "file": "P0_tau33.terms.txt",
+   "sha256": "58ffbc82088520d9803120718cb53a2de00ed94db9690b5f5be4af548a3d5b36",
+   "terms": 7
+  },
+  "P0_tau49": {
+   "file": "P0_tau49.terms.txt",
+   "sha256": "6d8a7b388506a412cf6e3ac5a328ae4df36eee6ed4e96672f6e629e0c2e9155b",
+   "terms": 7
+  },
+  "Phat_tau1": {
+   "file": "Phat_tau1.terms.txt",
+   "sha256": "7c893e36ef8dc9388f141c34e3982d402c421da4e41aea550939911b859a9cec",
+   "terms": 103
+  },
+  "Phat_tau11": {
+   "file": "Phat_tau11.terms.txt",
+   "sha256": "382786674c1afcb96d47d634429ad02fbfc9d0918c969fcf698e71f917996d00",
+   "terms": 116
+  },
+  "Phat_tau17": {
+   "file": "Phat_tau17.terms.txt",
+   "sha256": "c95f3e57c6eedbfd0f8037ff4e1b641379406283e2713ecb39ccf7fa511023f6",
+   "terms": 116
+  },
+  "Phat_tau19": {
+   "file": "Phat_tau19.terms.txt",
+   "sha256": "ed737c81ead30e00db39a008df17b896e5485d85ad53361ece9bb6bd7af1aeda",
+   "terms": 116
+  },
+  "Phat_tau27": {
+   "file": "Phat_tau27.terms.txt",
+   "sha256": "dd74bc898fe17627b61781b25933a35bf525f43b0628e244fc16b111cea4c3c2",
+   "terms": 116
+  },
+  "Phat_tau3": {
+   "file": "Phat_tau3.terms.txt",
+   "sha256": "ee1a4f94b95ce6f1be4d833c44e91692cd7ffea33437ada9ad8223116f32e788",
+   "terms": 116
+  },
+  "Phat_tau33": {
+   "file": "Phat_tau33.terms.txt",
+   "sha256": "d1e3658206bc3cc09fd0ef8be3018a8e54a180d886bb5c24277c596954562879",
+   "terms": 116
+  },
+  "Phat_tau49": {
+   "file": "Phat_tau49.terms.txt",
+   "sha256": "4d26a7015f5300a11a56184e5eb7374e98d9adbde87ace548729fc7bef5127c2",
+   "terms": 116
+  },
+  "patch_p11": {
+   "constants": {
+    "A": -1,
+    "B": 11,
+    "Delta": [
+     11,
+     3
+    ],
+    "a": 1,
+    "d": 5,
+    "pi": 33,
+    "q": 3
+   },
+   "file": "patch_p11.terms.txt",
+   "sha256": "e9e3e213f83e65852e04fef4afc1badc0316855d710f9664a7d9254fc08acc9a",
+   "terms": 7
+  },
+  "patch_p13": {
+   "constants": {
+    "A": 1,
+    "B": -13,
+    "Delta": [
+     13,
+     5
+    ],
+    "a": 4,
+    "d": 17,
+    "pi": 65,
+    "q": 5
+   },
+   "file": "patch_p13.terms.txt",
+   "sha256": "b75241ee6c05e17f17a89e5745da9e8ee6c5349bac2d517a99d66d6bb3154d3a",
+   "terms": 7
+  },
+  "patch_p17": {
+   "constants": {
+    "A": -1,
+    "B": 17,
+    "Delta": [
+     17,
+     3
+    ],
+    "a": 13,
+    "d": 53,
+    "pi": 51,
+    "q": 3
+   },
+   "file": "patch_p17.terms.txt",
+   "sha256": "90529395256324b552fc0aafda35ba6af8bac5a0ba184c7789685dc4eb2a8f9b",
+   "terms": 7
+  },
+  "patch_p19": {
+   "constants": {
+    "A": -2,
+    "B": 19,
+    "Delta": [
+     19,
+     7
+    ],
+    "a": 1,
+    "d": 5,
+    "pi": 133,
+    "q": 7
+   },
+   "file": "patch_p19.terms.txt",
+   "sha256": "72a6edf52297a64c907ddfdd74d91e80bd2921eee99f76fe3f4f79104c806ed2",
+   "terms": 7
+  },
+  "patch_p2": {
+   "constants": {
+    "A": -1,
+    "B": 2,
+    "Delta": [
+     2,
+     3
+    ],
+    "a": 4,
+    "d": 17,
+    "pi": 6,
+    "q": 3
+   },
+   "file": "patch_p2.terms.txt",
+   "sha256": "339abc900ba6b6adb3c635c4bfe98460f2ed2c884da0698236c0a23ea6a8f758",
+   "terms": 7
+  },
+  "patch_p23": {
+   "constants": {
+    "A": -1,
+    "B": 23,
+    "Delta": [
+     23,
+     3
+    ],
+    "a": 7,
+    "d": 29,
+    "pi": 69,
+    "q": 3
+   },
+   "file": "patch_p23.terms.txt",
+   "sha256": "94827d3aa557d926336e76e00c805138f4fa70083ea9721a42a6f173a3ade19b",
+   "terms": 7
+  },
+  "patch_p3": {
+   "constants": {
+    "A": 1,
+    "B": -3,
+    "Delta": [
+     3,
+     5
+    ],
+    "a": 3,
+    "d": 13,
+    "pi": 15,
+    "q": 5
+   },
+   "file": "patch_p3.terms.txt",
+   "sha256": "a4c8757957e4984e06240f2dde886ddcdffa55461ca1852fe782b4f4adbf3ca3",
+   "terms": 7
+  },
+  "patch_p5": {
+   "constants": {
+    "A": -1,
+    "B": 5,
+    "Delta": [
+     3,
+     5
+    ],
+    "a": 7,
+    "d": 29,
+    "pi": 15,
+    "q": 3
+   },
+   "file": "patch_p5.terms.txt",
+   "sha256": "706ae88d5a262962a17d2dc5250a59e99421dcdc4a6a8aa78d98521e623b8949",
+   "terms": 7
+  },
+  "patch_p7": {
+   "constants": {
+    "A": 1,
+    "B": -7,
+    "Delta": [
+     5,
+     7
+    ],
+    "a": 9,
+    "d": 37,
+    "pi": 35,
+    "q": 5
+   },
+   "file": "patch_p7.terms.txt",
+   "sha256": "7b178eefcb9672c541f9e21115794bb7af874f2da897d2bdf06c3669c611c796",
+   "terms": 7
+  },
+  "phi": {
+   "file": "phi2.terms.txt",
+   "sha256": "6e8c6af48996e85348a9e65f3111124978ab95b946dece3ccc328109de682c76",
+   "terms": 11
+  },
+  "thetafac_tau1": {
+   "file": "thetafac_tau1.terms.txt",
+   "sha256": "3a9d490bf05deb54ef68e86b9dbe0284f56251e960bc0bbd709be7a74f055b70",
+   "terms": 2022
+  },
+  "thetafac_tau11": {
+   "file": "thetafac_tau11.terms.txt",
+   "sha256": "de245e35c38b653cdc641a5e4dd52b7837ad5af337dc357c169236ee0f312b7a",
+   "terms": 2347
+  },
+  "thetafac_tau17": {
+   "file": "thetafac_tau17.terms.txt",
+   "sha256": "0051bbdbf2881067c2126e64de6ccebd7d99db447a22353869d015738b13b009",
+   "terms": 2347
+  },
+  "thetafac_tau19": {
+   "file": "thetafac_tau19.terms.txt",
+   "sha256": "bd24fb120a3d1c43f6b26c84ca0e6a664128d530c3a8bd78f2a0d1adfa6a8e3c",
+   "terms": 2347
+  },
+  "thetafac_tau27": {
+   "file": "thetafac_tau27.terms.txt",
+   "sha256": "eb433fd71a788d3b4356b6a9ab17c9c27201f2a780cf7b031bf3bc32962fd9ce",
+   "terms": 2347
+  },
+  "thetafac_tau3": {
+   "file": "thetafac_tau3.terms.txt",
+   "sha256": "9d9b557f47b732447595ba26a6fd47e7e2fddf5919b8277155aefacaa58653b0",
+   "terms": 2347
+  },
+  "thetafac_tau33": {
+   "file": "thetafac_tau33.terms.txt",
+   "sha256": "f962a0a8dc7c991d9ae71277c0e7c8da38aa8e33302b58a967c2d9480d1cd3ca",
+   "terms": 2347
+  },
+  "thetafac_tau49": {
+   "file": "thetafac_tau49.terms.txt",
+   "sha256": "3b058c2225c8edd00c8452ce6ec273aa1be6773adee19eae38b5d8e94c9e63e3",
+   "terms": 2347
+  }
+ }
+}

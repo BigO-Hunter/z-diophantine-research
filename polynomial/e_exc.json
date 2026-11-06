@@ -1,0 +1,62 @@
+{
+ "E_exc": [
+  3,
+  5,
+  7,
+  11,
+  13,
+  17,
+  19,
+  23
+ ],
+ "E_exc_count": 8,
+ "class_A": [
+  1,
+  17,
+  33,
+  49
+ ],
+ "class_B": [
+  3,
+  11,
+  19,
+  27
+ ],
+ "difference_primes": [
+  2,
+  3,
+  5,
+  7,
+  11,
+  13,
+  19,
+  23
+ ],
+ "lambda": [
+  1,
+  17,
+  33,
+  49,
+  3,
+  11,
+  19,
+  27
+ ],
+ "poles": [],
+ "residue_failures_outside_E": [],
+ "serves_own_class": true,
+ "small_primes": [
+  2,
+  3,
+  5,
+  7,
+  11,
+  13,
+  17,
+  19,
+  23
+ ],
+ "supp_pi": [
+  2
+ ]
+}
